@@ -11,21 +11,28 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. Applied Mathematics (Statistics and Data Science)
+   North Carolina A&T State University, Greensboro, NC 
+   GPA: 3.9/4.0 – *Expected 2026*
+
+* BSc. Mathematics
+    Kwame Nkrumah University of Science and Technology, Kumasi, Ghana  
+    GPA: 3.3/4.0 – *2022*
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Graduate Teaching Assistant**, North Carolina A&T State University  
+  *Aug 2024 – Present*  
+  - Taught undergraduate statistics (STAT 224) using R.  
+  - Helped students build statistical intuition and code reproducible reports.  
+  - Conducted weekend help sessions and one-on-one tutoring
+* Supervisor: Dr. Sayed Mostafa
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Data Analyst**, Ghana Commercial Bank PLC – Accra, Ghana  
+  *Sep 2022 – Jul 2024*  
+  - Increased processing efficiency by 15% using R and SQL.  
+  - Performed sentiment analysis, helping reduce account closures by 21%.  
+  - Streamlined data pipelines, reducing redundancy by 25%.
 
 * Summer 2015: Research Assistant
   * GitHub University
@@ -34,24 +41,38 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- **Programming:** R, Python, SQL 
+- **Data Visualization:** Power BI, Tableau, ggplot2  
+- **Statistical Techniques:** Regression, Machine Learning, Simulation  
+- **Tools:** Git, LaTeX, Excel, Jupyter, R Markdown 
 
-Publications
+
+
+Selected Projects
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+
+*1. Body Fat Analysis & Prediction (Certification Project)*  
+*April 2025*  
+Used linear, ridge, and lasso regression to model body fat percentage from anthropometric data (436 individuals).  
+- Applied cross-validation and performance metrics (MSE, R²).  
+- Lasso regression achieved the best predictive accuracy with interpretable variable selection.  
+- Tools: `dplyr`, `glmnet`, `ggplot2`
+
+*2. Bootstrap vs Jackknife Variance Estimation (Simulation Study)*  
+*STAT 711 Project, Spring 2025*  
+Monte Carlo study comparing bias and MSE of bootstrap and jackknife estimators for Pearson’s correlation under bivariate normal and lognormal distributions.  
+- 10,000 simulations for each setting.  
+- Bootstrap showed superior performance especially under skewed (lognormal) data.  
+
+*3. Heart Attack Risk Prediction Using ML*  
+- Modeled heart attack risk using demographic + lifestyle data.  
+- Algorithms: Logistic Regression, Decision Trees, Random Forest.  
+- Evaluated using sensitivity, specificity, precision, and accuracy
+
+*4. Fuzzy Logic in Transportation Cost Optimization*  
+- Compared Vogel’s, Least Cost, and Northwest Corner methods.  
+- Applied fuzzy logic to cost/supply/demand to generate more realistic solutions.
+
   
 Teaching
 ======
@@ -61,4 +82,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Organized weekly student study groups for statistics help sessions.  
+* Participated in departmental curriculum feedback meetings (2024–2025).  
+* Previously served as club treasurer (BONABOTO KNUST), optimized budgets.

@@ -2,7 +2,7 @@
 title: "Teaching Experience – Introduction to Statistics (Theory)"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2024-teaching-1
+permalink: /teaching/2024-fall-teaching-1
 venue: "North Carolina A&T State University, Department of Mathematics and Statistics"
 date: 2024-08-15
 location: "Greensboro, NC, USA"

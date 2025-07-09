@@ -2,7 +2,7 @@
 title: "Teaching Experience – R Programming & Project Support"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2025-spring-teaching-1
+permalink: /teaching/2025-spring-teaching-2
 venue: "North Carolina A&T State University, Department of Mathematics and Statistics"
 date: 2024-08-15
 location: "Greensboro, NC, USA"
