@@ -24,8 +24,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Stephen Agyeah"
-  pronouns         : "he/him"   
-  bio              : "Applied Mathematics Master's student specializing in Statistics and Data Science. Passionate about uncovering insights through data, building tools that make impact and sharing knowledge with global communities, Data Analyst"
+  pronouns         : #""   
+  bio              : "Mathematician | Statistician | Data Scientist | Data Analyst"
   location         : "Greensboro, NC, USA"
   employer         : "North Carolina A&T State University"
   uri              : https://github.com/sagyeah99/sagyeah.github.io
