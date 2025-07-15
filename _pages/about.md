@@ -1,6 +1,7 @@
 ---
-permalink: /
-title: "Stephen Agyeah – Graduate Student in Applied Mathematics(Statistics & Data Science)"
+permalink: /about/
+title: "About Stephen Agyeah"
+layout: page
 author_profile: true
 redirect_from: 
   - /about/
