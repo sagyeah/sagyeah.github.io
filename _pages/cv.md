@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Education 
 ======
 * M.S. Applied Mathematics (Statistics and Data Science)
    North Carolina A&T State University, Greensboro, NC 

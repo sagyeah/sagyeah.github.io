@@ -12,7 +12,7 @@ location: "Greensboro, NC, USA"
 
 Served as a Graduate Teaching Assistant for STAT 224 – Introduction to Statistics, providing R programming and project support during **Fall 2024** and **Spring 2025** semesters.
 
-### Responsibilities
+### Responsibilities 
 
 - Provided hands-on instruction in R for data wrangling, visualization, and statistical analysis.  
 - Supported student learning in computer lab sessions and via one-on-one help.  
@@ -23,5 +23,12 @@ Served as a Graduate Teaching Assistant for STAT 224 – Introduction to Statist
 - R programming  
 - Data visualization (e.g., ggplot2)  
 - Reproducible analysis & communication
+
+
+
+
+
+
+
 
 
