@@ -9,7 +9,6 @@ location: "Greensboro, NC, USA"
 ---
 
 ### Overview
- 
 Served as a Graduate Teaching Assistant for the theoretical instruction of STAT 224 – Introduction to Statistics during the 2024–2026 academic years.
 
 ### Responsibilities
