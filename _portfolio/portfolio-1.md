@@ -1,6 +1,6 @@
 ---
 title: "BOOTSTRAP AND JACKKNIFE"
-excerpt: "Bootstrap and Jackknife Project<br/><img src='{{ "/assets/projects/bootstrap-jackknife/Bootstrap-Jackknife.png" | relative_url }}'>"
+
 collection: portfolio
 author_profile: false
 ---
