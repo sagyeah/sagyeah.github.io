@@ -9,16 +9,16 @@
 
 main:
  - title: "About me"
-   url: /year-archive/
+   url: /About/
     
  - title: "Portfolio"
    url: /portfolio/
     
  - title: "CV"
-   url: /cv/
+   url: /CV/
 
  - title: "Teaching"
-   url: /teaching/
+   url: /Teaching/
     
   # - title: "Publications"
   #   url: /publications/
