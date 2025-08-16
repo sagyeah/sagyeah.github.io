@@ -4,7 +4,7 @@ title: "About Stephen Agyeah"
 layout: true
 author_profile: true
 redirect_from: 
-  - /about/
+  - /about.html
 ---
 
 Hi! I'm **Stephen Agyeah**, a master's student in Applied Mathematics with a concentration in Statistics and Data Science at **North Carolina A&T State University**. I currently serve as a **Graduate Teaching Assistant**, guiding undergraduates in statistics and statistical programming with R.
