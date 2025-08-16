@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "About Stephen Agyeah"
-layout: single
+layout: true
 author_profile: true
 redirect_from: 
   - /about/
