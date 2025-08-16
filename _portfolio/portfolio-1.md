@@ -7,8 +7,8 @@ author_profile: false
 
 This project explores Bootstrap and Jackknife resampling techniques for variance estimation and model evaluation. It compares their efficiency, bias properties, and computational trade-offs, with applications in real datasets.
 
-📄 *Inline view:*
-<embed src='{{ "/assets/projects/bootstrap-jackknife/Bootstrap-Jackknife.pdf" | relative_url }}' type="application/pdf" width="100%" height="600px" />
-
+---
 ⬇ *Download:*
 <a href='{{ "/assets/projects/bootstrap-jackknife/Bootstrap-Jackknife.pdf" | relative_url }}' download target="_blank" rel="noopener">Download PDF</a>
+
+---
