@@ -15,10 +15,10 @@ main:
    url: /portfolio/
     
  - title: "CV"
-   url: /cV/
+   url: /cv/
 
  - title: "Teaching"
-   url: /ceaching/
+   url: /teaching/
     
   # - title: "Publications"
   #   url: /publications/
