@@ -1,7 +1,20 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "BOOTSTRAP AND JACKKNIFE"
+excerpt: "Bootstrap and Jackknife Project<br/><img src='/_portfolio/Bootstrap-Jackknife.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+
+This project explores Bootstrap and Jackknife resampling techniques for variance estimation and model evaluation. It compares their efficiency, bias properties, and computational trade-offs, with applications in real datasets.
+
+
+---
+
+📄 *View the PDF directly here:*  
+<embed src="/_portfolio/Bootstrap-Jackknife.pdf" type="application/pdf" width="100%" height="600px" />
+
+---
+
+
+
+[Download the full report (PDF)](/_portfolio/Bootstrap-Jackknife.pdf)
