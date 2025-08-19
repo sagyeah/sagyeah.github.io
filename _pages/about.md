@@ -7,10 +7,12 @@ author_profile: true
 ---
 
 
-Hi! I’m **Stephen Agyeah**, a master’s student in Applied Mathematics with a concentration in Statistics and Data Science at **North Carolina A&T State University**. I currently serve as both a **Graduate Research Assistant** supporting research on AI integration in data science tasks and curriculum and a **Graduate Teaching Assistant**, guiding undergraduates in statistics and statistical programming with R.
+I was born and raised in Ghana, where I developed a love for problem solving early on  whether it was breaking down math puzzles or trying to make sense of everyday challenges with numbers. That curiosity led me to study Mathematics at Kwame Nkrumah University of Science and Technology (KNUST), Ghana, where I earned my BSc in Mathematics. My studies there laid the foundation for my current pursuit of a master’s degree in Applied Mathematics with a concentration in Statistics and Data Science at North Carolina A&T State University (NCAT).
 
-Previously, I worked as a **Data Analyst** at Ghana Commercial Bank, where I applied tools such as R, SQL, and Python to clean data, build insights, and improve operational performance. These experiences strengthened my passion for data visualization, simulation, and machine learning as practical tools for solving real-world problems.
+Along the way, I worked as a Data Analyst at Ghana Commercial Bank, where I learned first hand how data shapes financial decision making. Now, as both a Graduate Research Assistant and Teaching Assistant, I balance research on AI integration with guiding undergraduates in statistics.
 
-My academic and professional journey has fueled a deep interest in **machine learning**, particularly its applications in health, finance, and education. I am especially passionate about **predictive modeling, simulation, and explainable AI**, and I am always seeking opportunities to apply advanced statistical and computational methods to uncover insights and drive impact.
+What drives me is clarity and fairness in data driven decisions. I’m especially passionate about using machine learning, simulation, and explainable AI to tackle problems in finance, healthcare, and education fields that directly impact people’s lives.
 
-With a strong foundation in data science and a growing research portfolio, I aim to bridge the gap between rigorous analytics and practical decision making bringing clarity, fairness, and transparency to data-driven solutions.
+Outside of academics and research, I enjoy football, content creation, and music. These interests keep me balanced and remind me that creativity, discipline, and connection are just as important as technical skills.
+
+My long term goal is to bridge the gap between advanced analytics and real world decision making, ensuring technology serves people with transparency, fairness, and accountability.
