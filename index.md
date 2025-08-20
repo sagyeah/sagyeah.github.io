@@ -11,4 +11,4 @@ Previously, I worked as a Data Analyst at Ghana Commercial Bank, where I applied
 
 My academic and professional journey has fueled a deep interest in machine learning, particularly its applications in health, finance, and education. I am especially passionate about predictive modeling, simulation, and explainable AI, and I am always seeking opportunities to apply advanced statistical and computational methods to uncover insights and drive impact.
 
-With a strong foundation in data science and a growing research portfolio, I aim to bridge the gap between rigorous analytics and practical decision making bringing clarity, fairness, and transparency to data-driven solutions.
+
