@@ -11,11 +11,14 @@ redirect_from:
 
 Education 
 ======
-* M.S. Applied Mathematics (Statistics and Data Science)
-   North Carolina A&T State University, Greensboro, NC 
-   GPA: 3.9/4.0 – *Expected 2026*
+* Ph.D. Data Science and Analytics *(Starting Fall 2026)*  
+   North Carolina A&T State University, Greensboro, NC
 
-* BSc. Mathematics
+* M.S. Applied Mathematics (Statistics and Data Science)  
+   North Carolina A&T State University, Greensboro, NC  
+   GPA: 3.9/4.0 – *2026*
+
+* BSc. Mathematics  
     Kwame Nkrumah University of Science and Technology, Kumasi, Ghana  
     GPA: 3.3/4.0 – *2022*
 
@@ -34,10 +37,11 @@ Work experience
   - Performed sentiment analysis, helping reduce account closures by 21%.  
   - Streamlined data pipelines, reducing redundancy by 25%.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **Graduate Research Assistant**, North Carolina A&T State University  
+  *Aug 2024 – May 2026*  
+  - Contributed to an NSF-funded research initiative on AI integration in data science and statistics education, supervised by Dr. Abeer Hasan, Department of Mathematics.  
+  - Designed and ran simulation experiments in R, conducted literature reviews, and helped implement research findings in classroom settings.  
+  - Assisted with manuscript preparation and coding for a study on distribution function estimation for sensitive quantitative variables.
   
 Skills
 ======
@@ -48,10 +52,22 @@ Skills
 
 
 
+Presentations
+======
+
+*NISS New Researchers Network Virtual Conference* — June 2025  
+"Distribution Function Estimation for Sensitive Quantitative Variables"  
+National Institute of Statistical Sciences (NISS) · Virtual  
+
 Selected Projects
 ======
 
-*1. Body Fat Analysis & Prediction (Certification Project)*  
+*1. Distribution Function Estimation for Sensitive Quantitative Variables (Graduate Research)*  
+*2024 – 2026*  
+Monte Carlo simulation study comparing IST and ISDLT estimators for CDF estimation of sensitive variables under varying sample sizes, correlation structures, and distributional assumptions. Implemented in R with 500 replications per setting. Includes quantile estimation and real-data applications.  
+- Supervisor: Dr. Abeer Hasan · NSF-funded · [GitHub](https://github.com/sagyeah/IST-ISDLT-CDF-Estimation)
+
+*2. Body Fat Analysis & Prediction (Certification Project)*  
 *April 2025*  
 Used linear, ridge, and lasso regression to model body fat percentage from anthropometric data (436 individuals).  
 - Applied cross-validation and performance metrics (MSE, R²).  
