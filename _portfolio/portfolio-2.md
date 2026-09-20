@@ -1,13 +1,33 @@
 ---
 title: "HEART ATTACK RISK ANALYSIS"
 collection: portfolio
+category: academic
 author_profile: false
 ---
 
-This project explores clinical and demographic predictors of heart attack outcomes using statistical learning. With a dataset of 1,319 patients, it analyzes the influence of troponin levels, glucose, blood pressure, and age. Logistic regression models were applied to identify significant predictors, revealing troponin, age, and KCM as strong indicators of positive outcomes. The project highlights correlations, model findings, and data-driven insights for risk assessment.
-
 ---
-⬇ *Download:*
-<a href='{{ "/assets/projects/heart-attack/Agyeah-Stephen-Dap-Final.pdf" | relative_url }}' download target="_blank" rel="noopener">Download PDF</a>
-
+title: "Statistical Analysis of Heart Attack Outcomes"
+collection: portfolio
+author_profile: false
 ---
+
+### Overview
+
+This academic data analysis project examines clinical and demographic factors associated with heart attack outcomes using a dataset of 1,319 patients. The analysis explores relationships among age, glucose, blood pressure, troponin, KCM, and other clinical variables through exploratory data analysis, visualization, correlation analysis, and logistic regression.
+
+The fitted logistic regression model identified troponin, age, and KCM as statistically significant predictors of the recorded outcome, while other variables showed weaker evidence of association within the model.
+
+### Methods & Skills
+
+- Exploratory data analysis
+- Descriptive statistics
+- Data visualization
+- Correlation analysis
+- Logistic regression
+- Odds ratio interpretation
+- Statistical modeling in R
+- Statistical interpretation and communication
+
+### Project Report
+
+📄 [View Project Report]({{ "/files/Agyeah-Stephen-Dap-Final.pdf" | relative_url }})

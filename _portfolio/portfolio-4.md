@@ -1,25 +1,34 @@
 ---
-title: "Distribution Function Estimation for Sensitive Quantitative Variables"
+title: "Bootstrap and Jackknife Resampling Methods"
 collection: portfolio
+category: academic
 author_profile: false
 ---
 
-This research investigates Monte Carlo-based approaches for estimating the cumulative distribution function (CDF) of sensitive quantitative variables — data that respondents may misreport due to social desirability bias (e.g., income, sensitive health behaviors, or personal finances).
+### Overview
 
-The study compares two indirect questioning methods:
-- **Item Sum Technique (IST)** — respondents report the sum of a sensitive item and a non-sensitive distractor, protecting individual privacy while enabling unbiased population-level estimation
-- **Item Sum Double List Technique (ISDLT)** — a two-group extension of IST that improves estimation efficiency and reduces variance
+This academic project was completed as part of graduate coursework in statistics and explores two fundamental resampling methods, the Bootstrap and Jackknife. The project examines how these techniques can be used for variance and bias estimation and compares their statistical properties, efficiency, and computational considerations.
 
-Using Monte Carlo simulation in R (500 replications per setting), the project evaluates CDF estimators under varying sample sizes (n = 100, 500), correlation structures (ρ = −0.5, 0, 0.5), and distributional assumptions (Beta-distributed sensitive variable, Uniform distractor). Social desirability bias is explicitly modeled to demonstrate how under-reporting distorts naive direct estimates and how IST/ISDLT correct for this.
+### What I Explored
 
-**Key contributions:**
-- Designed and implemented the full simulation pipeline in R using `ggplot2`, `MASS`, and custom CDF estimators
-- Evaluated bias, MSE, and visual fit of IST and ISDLT estimators against direct and kernel-based alternatives
-- Extended the framework to quantile estimation and real-data application
-- Assisted with manuscript preparation and coding as a Graduate Research Assistant
+- Bootstrap resampling and estimation
+- Jackknife resampling and estimation
+- Variance and bias estimation
+- Comparison of resampling approaches
+- Application of statistical methods to data
+- Interpretation and evaluation of results
 
-This project was developed under the supervision of Dr. Abeer Hasan, Department of Mathematics, North Carolina A&T State University, in connection with an NSF-funded research program.
+### Skills Demonstrated
+
+- Statistical computing
+- Resampling methods
+- Statistical inference
+- Data analysis
+- Quantitative reasoning
+- Technical communication
 
 ---
 
-🔗 **[View Full Project on GitHub](https://github.com/sagyeah/IST-ISDLT-CDF-Estimation){:target="_blank"}**
+### Project Report
+
+[View Project Report]({{ "/files/Bootstrap and Jackknife Project.pdf" | relative_url }})

@@ -14,4 +14,6 @@ Presented original research on estimating the cumulative distribution function (
 **Conference Chair:** Dr. Sharmistha Guha, Department of Statistics, Texas A&M University  
 **NISS Director:** David S. Matteson
 
-[Download Certificate of Participation](/files/NISS-Certificate-2025.pdf)
+[Official NISS Conference Program](https://www.niss.org/events/2026-niss-virtual-new-researchers-conference?)
+
+[Download Certificate of Participation](/files/NISS-Certificate-2026.pdf)

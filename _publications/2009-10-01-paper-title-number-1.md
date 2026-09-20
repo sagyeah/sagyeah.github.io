@@ -1,14 +1,39 @@
 ---
-title: "Paper Title Number 1"
+title: "Perceptions and Utilization of GenAI Tools among Data Science Students and Faculty"
 collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+category: contributed
+permalink: /publication/perceptions-utilization-genai-data-science
+excerpt: 'Published research from the AI4DS project to which I contributed as a Graduate Research Assistant. I am not a named author of this publication.'
+date: 2026-04-24
+venue: 'arXiv'
+paperurl: 'https://arxiv.org/abs/2604.22998'
+citation: 'Hasan, A. M., & Mostafa, S. A. (2026). &quot;Perceptions and Utilization of GenAI Tools among Data Science Students and Faculty.&quot; <i>arXiv</i>.'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
+### Important Authorship Note
+
+**I am not a named author of this publication.** The paper is authored by **Abeer M. Hasan and Sayed A. Mostafa**. It is included here to document research to which I contributed in my role as a Graduate Research Assistant on the AI4DS project. I do not claim authorship of the publication.
+
+### My Contribution
+
+As a Graduate Research Assistant on the **AI4DS project**, I contributed to the research activities supporting this study. My work included:
+
+- Cleaning, processing, and preparing student and faculty survey data for statistical analysis
+- Developing composite scores aligned with the study's research questions
+- Conducting statistical analyses, including t tests, ANOVA, and factor analysis
+- Examining differences in survey responses across demographic and academic groups
+- Preparing formatted statistical summaries and tables used during manuscript development
+- Contributing to course materials and AI integration components associated with the broader AI4DS research project
+
+### About the Study
+
+The study examines how students and faculty in statistics and data science at a Historically Black College or University (HBCU) perceive and interact with generative AI tools. Using survey responses from 119 students and 14 faculty members, the research examines familiarity with GenAI, usage patterns, perceived benefits, awareness of limitations, and institutional support needs.
+
+### Publication Details
+
+**Authors:** Abeer M. Hasan and Sayed A. Mostafa  
+**Published:** April 24, 2026  
+**arXiv ID:** 2604.22998  
+**DOI:** [10.48550/arXiv.2604.22998](https://doi.org/10.48550/arXiv.2604.22998)
+
+[View Publication on arXiv](https://arxiv.org/abs/2604.22998)

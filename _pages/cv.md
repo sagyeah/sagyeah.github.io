@@ -16,7 +16,7 @@ Education
 
 * M.S. Applied Mathematics (Statistics and Data Science)  
    North Carolina A&T State University, Greensboro, NC  
-   GPA: 3.9/4.0 – *2026*
+   GPA: 3.93/4.0 – *2026*
 
 * BSc. Mathematics  
     Kwame Nkrumah University of Science and Technology, Kumasi, Ghana  
